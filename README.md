@@ -1,2 +1,0 @@
-# HTML-CSSProject
-Pirple project
