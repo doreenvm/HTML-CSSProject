@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+
+p{
+    font-size: 19px;
+}
+
+ul, ol{
+    font-size: 22px;
+}
+
+h1, h2 {
+    padding-bottom: 13px;
+}
+
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+ /* https://www.w3schools.com/howto/howto_css_rounded_images.asp */
+.center {
+    border-radius: 4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
